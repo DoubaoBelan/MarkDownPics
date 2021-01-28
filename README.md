@@ -1,2 +1,2 @@
 # MarkDownPics
-Save Pics
+Save Pics (git lfs)
